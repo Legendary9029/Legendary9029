@@ -23,6 +23,5 @@ I am passionate about **AI, ML, Digital Twins, IoT, Blockchain, and Virtual Simu
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legendary9029&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legendary9029&layout=compact&theme=radical)  
 
-### 📫 Connect With Me  
-💡 Open to **collaborations, projects, and hackathons!**  
-📧 Reach out via GitHub or [LinkedIn](#https://www.linkedin.com/in/adityasinha1304/)  
+📫 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.hackerrank.com/as7232" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-107C10?style=for-the-badge&logo=hackerrank&logoColor=white"> </a> <a href="https://leetcode.com/as7232" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"> </a> <a href="mailto:YOUR-EMAIL"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
